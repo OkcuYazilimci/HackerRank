@@ -40,4 +40,4 @@ Explanation
 
 The diagram below explains the queries:
 
-https://s3.amazonaws.com/hr-assets/0/1489168616-b25dd38013-arraylist.png
+![](https://s3.amazonaws.com/hr-assets/0/1489168616-b25dd38013-arraylist.png)
