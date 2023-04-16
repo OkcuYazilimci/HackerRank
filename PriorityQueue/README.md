@@ -60,7 +60,7 @@ Maria
 Explanation 0
 
 In this case, the number of events is 12. Let the name of the queue be Q.
-
+```
 John is added to Q. So, it contains (John, 3.75, 50).
 Mark is added to Q. So, it contains (John, 3.75, 50) and (Mark, 3.8, 24).
 Shafaet is added to Q. So, it contains (John, 3.75, 50), (Mark, 3.8, 24), and (Shafaet, 3.7, 35).
@@ -71,7 +71,7 @@ Samiha is served as she has the highest CGPA. So, Q contains (Shafaet, 3.7, 35).
 Now, four more students are added to Q. So, it contains (Shafaet, 3.7, 35), (Ashley, 3.9, 42), (Maria, 3.6, 46), (Anik, 3.95, 49), and (Dan, 3.95, 50).
 Anik is served because though both Anil and Dan have the highest CGPA but Anik comes first when sorted in alphabetic order. So, Q contains (Dan, 3.95, 50), (Ashley, 3.9, 42), (Shafaet, 3.7, 35), and (Maria, 3.6, 46).
 As all events are completed, the name of each of the remaining students is printed on a new line.
-  
+ ```
  ```
   import java.util.ArrayList;
 import java.util.List;
