@@ -70,7 +70,7 @@ Now, four more students are added to Q. So, it contains (Shafaet, 3.7, 35), (Ash
 Anik is served because though both Anil and Dan have the highest CGPA but Anik comes first when sorted in alphabetic order. So, Q contains (Dan, 3.95, 50), (Ashley, 3.9, 42), (Shafaet, 3.7, 35), and (Maria, 3.6, 46).
 As all events are completed, the name of each of the remaining students is printed on a new line.
   
- '''
+ ```
   import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -85,7 +85,7 @@ class Student {
     private final String name;
     private final double cgpa;
 
-    public Student(int id, String name, double cgpa) {
+public Student(int id, String name, double cgpa) {
         this.id = id;
         this.name = name;
         this.cgpa = cgpa;
@@ -159,7 +159,7 @@ public class Solution {
         }
     }
 }
-  '''
+  ```
   
   
   
