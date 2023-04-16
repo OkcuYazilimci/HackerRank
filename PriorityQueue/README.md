@@ -34,8 +34,8 @@ Output Format
 
 The locked stub code prints the names of the students yet to be served in the priority order. If there are no such student, then the code prints EMPTY.
 
-Sample Input 0
-
+##Sample Input 0
+```
 12
 ENTER John 3.75 50
 ENTER Mark 3.8 24
@@ -49,12 +49,14 @@ ENTER Maria 3.6 46
 ENTER Anik 3.95 49
 ENTER Dan 3.95 50
 SERVED
-Sample Output 0
-
+```
+##Sample Output 0
+```
 Dan
 Ashley
 Shafaet
 Maria
+```
 Explanation 0
 
 In this case, the number of events is 12. Let the name of the queue be Q.
